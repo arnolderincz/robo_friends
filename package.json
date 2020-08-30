@@ -11,7 +11,6 @@
     "react-scripts": "3.4.3",
     "tachyons": "^4.12.0"
   },
-  "homepage": "https://arnolderincz.github.io/robo_friends/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
