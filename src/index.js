@@ -16,7 +16,7 @@ const  store = createStore(rootReducer, applyMiddleware(thunkMiddleware, logger)
 
 ReactDOM.render(
     <Provider store={store}>
-        <Apps />
+        <App />
     </Provider>, document.getElementById('root')
     
 );
